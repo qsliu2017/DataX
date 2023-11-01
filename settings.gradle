@@ -3,6 +3,10 @@
  */
 
 rootProject.name = 'datax-all'
+
+include 'datax'
+include 'plugin'
+
 include 'common'
 include 'core'
 include 'mysqlwriter'
